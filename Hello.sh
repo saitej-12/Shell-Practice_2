@@ -1,3 +1,5 @@
 #!/bin/bash
 echo "sai"
-echo ""
+echo "$(date)"
+echo "Hello"
+
