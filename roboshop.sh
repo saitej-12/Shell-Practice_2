@@ -3,7 +3,7 @@
 AMI_ID="ami-09c813fb71547fc4f"
 SG_ID="sg-027e6b72ecc98ad79" # replace with your SG ID
 ZONE_ID="Z06342332M1VGYIZ85CLT" # replace with your ID
-DOMAIN_NAME="daws86s.fun"
+DOMAIN_NAME="sjleader.space"
 
 for instance in $@ # mongodb redis mysql
 do
